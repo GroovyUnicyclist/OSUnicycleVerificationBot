@@ -1,0 +1,12 @@
+token: discord_bot_token
+prefix: u!
+dev_channel: 871442583031791698
+dev_id: 152177634179022848
+sendgrid_api_key: sengrid_token
+code_range: 1000000
+server_id: 857785867334189076
+verification_channel: 871481925875925034
+instructions_channel: 857785868341608449
+officer_role: 857785867334189077
+verified_role: 871478308070629376
+guest_role: 871485025185570857
